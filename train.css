@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/aa/e1/8a/aae18aed6eb7c0703189ef11c7f95705.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+
+.container {
+    margin-top: 1%;
+
+
+}
+
+h3 {
+    letter-spacing: 1px;
+}
+
+.jumbotron,
+.panel.panel-primary {
+    border: 3px solid rgba(21, 171, 195, 1.0);
+    -moz-box-shadow: 0 0 9px rgba(21, 171, 195, 1.0);
+    -webkit-box-shadow: 0 0 9px rgba(21, 171, 195, 1.0);
+    box-shadow: 0 0 9px rgba(21, 171, 195, 1.0);
+}
+
+h1 {
+    background-image: url ("http://jonvilma.com/images/tron-6.jpg");
+}
