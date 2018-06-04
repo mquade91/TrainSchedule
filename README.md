@@ -2,7 +2,7 @@
 
 https://mquade91.github.io/TrainSchedule/train.html
 
-## 'All Aboard' Train app
+## 'All Aboard' will make sure you never miss your train!
 ### Allows users to view the current train schedule:
       -Train name	
       -Destination	
